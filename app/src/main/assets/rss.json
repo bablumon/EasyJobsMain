@@ -40,6 +40,31 @@
 
   {
     "i": 1008,
+    "n": "New Zealand",
+    "l": "http://www.jobsforasians.com/feeds/posts/default/-/jobs%20in%20new%20zealand?alt=rss"
+  }
+,
+
+  {
+    "i": 1009,
+    "n": "Australia",
+    "l": "http://www.jobsforasians.com/feeds/posts/default/-/jobs%20in%20australia?alt=rss"
+  }
+,
+  {
+    "i": 1010,
+    "n": "Canada",
+    "l": "http://www.jobsforasians.com/feeds/posts/default/-/jobs%20in%20canada?alt=rss"
+  }
+,
+  {
+    "i": 1011,
+    "n": "Singapore",
+    "l": "http://www.jobsforasians.com/feeds/posts/default/-/jobs%20in%20singapore?alt=rss"
+  }
+,
+  {
+    "i": 1012,
     "n": "India",
     "l": "http://www.jobsforasians.com/feeds/posts/default/-/jobs%20in%20India?alt=rss"
   }
